@@ -1,1 +1,1 @@
-# Game-
+This is repo where you can found different JavaScript game
